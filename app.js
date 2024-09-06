@@ -30,5 +30,9 @@ if (x == y) {
     console.log(x,"and", y, "is not equal");
 }
 
+console.log("String");
+let greeting = "Hello World";
+let length = greeting.length;
+console.log(length);
 
 
