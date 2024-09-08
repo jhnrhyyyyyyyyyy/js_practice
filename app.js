@@ -34,5 +34,3 @@ console.log("String");
 let greeting = "Hello World";
 let length = greeting.length;
 console.log(length);
-
-
